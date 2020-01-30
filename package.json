@@ -1,0 +1,19 @@
+{
+  "name": "heapq.js",
+  "version": "0.0.1",
+  "description": "min heap (the same interface as Python's heapq)",
+  "author": "darai0512 <darai0512@yahoo.co.jp>",
+  "license": "MIT",
+  "main": "main.js",
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "keywords": [
+    "heap",
+    "heapq"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darai0512/heapq.git"
+  }
+}
